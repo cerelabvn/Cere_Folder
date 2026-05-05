@@ -1,2 +1,2 @@
-# SDVN-WebUI
-StableDiffusion.VN
+# CereLabs.ai
+youtube.com/@cerelab
